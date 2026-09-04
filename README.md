@@ -24,6 +24,9 @@ So ummm, how do I put this...
 
 _*YOU PLUG IT IN*_
 
+### Firmware
+Sooo you won't believe this but it is just a usb hub, it is plug and play
+
 ### BOMs
 - [BOM](./assets/BOM.csv)
 - [PCB BOM](./assets/PCB_BOM.csv)
