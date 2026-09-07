@@ -19,6 +19,15 @@ This is a USB 3.1 hub which uses a usb 3.1 gen 2 upstream port to 4 usb 3.0 down
 <img style="width: 49%; height: auto;" src="./assets/schematic.png" alt="Schematic">
 </div>
 
+### Case
+Fusion 360 Link [here](https://a360.co/4czpJdL)
+There are two parts of the case:
+- The [Lid](case/Lid.step)
+- The [Base](case/Base.step)
+The lid has notches which slot into the base to hold it on using the power of friendship and friction.
+
+<img width="1332" height="670" alt="image" src="https://github.com/user-attachments/assets/ec899064-b9a4-404f-a467-1705647f86a7" />
+
 ### Getting Started
 So ummm, how do I put this...
 
