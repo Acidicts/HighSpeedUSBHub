@@ -26,7 +26,8 @@ There are two parts of the case:
 - The [Base](case/Base.step)
 The lid has notches which slot into the base to hold it on using the power of friendship and friction.
 
-<img width="1332" height="670" alt="image" src="https://github.com/user-attachments/assets/ec899064-b9a4-404f-a467-1705647f86a7" />
+<img width="929" height="538" alt="Screenshot 2026-09-18 at 18 27 04" src="https://github.com/user-attachments/assets/5b69551b-67e4-4a81-9bbd-990dd081e908" />
+
 
 ### Getting Started
 So ummm, how do I put this...
