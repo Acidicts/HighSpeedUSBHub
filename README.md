@@ -22,8 +22,8 @@ This is a USB 3.1 hub which uses a usb 3.1 gen 2 upstream port to 4 usb 3.0 down
 ### Case
 Fusion 360 Link [here](https://a360.co/4czpJdL)
 There are two parts of the case:
-- The [Lid](case/Lid.step)
-- The [Base](case/Base.step)
+- The [Lid](case/Lid.stl)
+- The [Base](case/Base.stl)
 The lid has notches which slot into the base to hold it on using the power of friendship and friction.
 
 <img width="929" height="538" alt="Screenshot 2026-09-18 at 18 27 04" src="https://github.com/user-attachments/assets/5b69551b-67e4-4a81-9bbd-990dd081e908" />
@@ -38,5 +38,5 @@ _*YOU PLUG IT IN*_
 Sooo you won't believe this but it is just a usb hub, it is plug and play
 
 ### BOMs
-- [BOM](./assets/BOM.csv)
-- [PCB BOM](./assets/PCB_BOM.csv)
+- [BOM](BOM.csv)
+- [PCB BOM](PCB_BOM.csv)
